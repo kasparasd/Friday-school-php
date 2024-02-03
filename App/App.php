@@ -60,8 +60,7 @@ class App
                 return (new AdminController)->store($_POST);
             }
         }
-        echo 'default';
-        echo Auth::get()->getStatus();
+        return App::view('404');
     }
 
     public static function view($view, $data = [])
