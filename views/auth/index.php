@@ -9,7 +9,7 @@
                     </div>
                     <div class="card-body">
                         <div class="mb-3">
-                            <label class="form-label">Name</label>
+                            <label class="form-label">Email</label>
                             <input type="text" class="form-control" name="email">
                         </div>
                         <div class="mb-3">
