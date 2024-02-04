@@ -28,7 +28,7 @@ Create a simple student registration on the school's website where the admin can
    ```sh
    composer install
    ```
-4. Open project: http://localhost/php-school/public/
+4. Open project: http://localhost/Friday-school-php/public/
 5. For this project, you will need an SQL database. For your convenience, a table has been exported from the database - users.sql, containing one user: admin@gmail.com, with the password: admin. The file is located in the root folder of this project. sql_table/users.sql
 
 
